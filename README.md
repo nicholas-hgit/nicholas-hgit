@@ -1,7 +1,7 @@
 ### Greetings and well met, kindred of the GitHub realm!👋
 #### I am nicholas
 <ul>
- <li>a third-year traveler, a student of the wondrous arts of Computer Science and Information Systems</li>
+ <li>a curious traveler, a student of the wondrous arts of Computer Science and Information Systems</li>
  <li>seeking to explore the boundless realms of software engineering</li>
  <li>in the enchanting world of technology, I wander, ever curious and eager to learn</li>
  <li>currently exploring the enchanting realm of web development!</li>
