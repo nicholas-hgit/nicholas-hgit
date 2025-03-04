@@ -3,7 +3,6 @@
 <ul>
  <li>seeking to explore the boundless realms of software engineering</li>
  <li>in the enchanting world of technology, I wander, ever curious and eager to learn</li>
- <li>currently exploring the enchanting realm of spring boot apps development!</li>
 </ul>
  
 
